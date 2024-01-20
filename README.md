@@ -1,4 +1,4 @@
-# TransactionSampleApp
+# TransactionsSampleApp
 
 Requirements:
 
